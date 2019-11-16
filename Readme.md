@@ -1,3 +1,4 @@
+# A Simple & easy template app on React Native to get started 
 # Job Portal
 
 Job Portal app using react native for iOS & Android\_
